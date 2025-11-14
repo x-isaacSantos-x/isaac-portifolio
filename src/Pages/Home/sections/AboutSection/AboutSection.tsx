@@ -30,8 +30,8 @@ const AboutSection: React.FC = () => {
                             <StyledCard variant="outlined">
                                 <WorkspacePremiumIcon />
                                 <Typography textAlign="center" fontWeight={600}>Experience</Typography>
-                                <Typography textAlign="center">1+ years</Typography>
-                                <Typography textAlign="center">Frontend Development</Typography>
+                                <Typography textAlign="center">2+ years</Typography>
+                                <Typography textAlign="center">Service desk analyst</Typography>
                             </StyledCard>
                         </AnimationComponent>
                     </Grid>
@@ -40,8 +40,8 @@ const AboutSection: React.FC = () => {
                             <StyledCard variant="outlined">
                                 <SchoolIcon />
                                 <Typography textAlign="center" fontWeight={600}>Education</Typography>
-                                <Typography textAlign="center">Bachelors Degree</Typography>
-                                <Typography textAlign="center">Electrical Engineer</Typography>
+                                <Typography textAlign="center">ETEC Hortolândia</Typography>
+                                <Typography textAlign="center">Systems Development</Typography>
                             </StyledCard>
                         </AnimationComponent>
 
